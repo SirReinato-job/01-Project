@@ -19,3 +19,5 @@ Este é o primeiro projeto do curso Full Stack SENAI. O objetivo é desenvolver 
 - **Backend**: Node.js, Express  (No futuro)
 - **Banco de Dados**: MongoDB  (A definir)
 - **Outras Dependências**: Axios, Mongoose, etc.  (No futuro)
+
+## Refazendo uma brench
